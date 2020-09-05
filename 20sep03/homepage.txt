@@ -1,0 +1,13 @@
+<!DOCTTYPE html>
+<html>
+	<head>
+		<title>Adam Altenhof's Wedpage</title>
+	</head>
+	<body>
+		<h1>Research</h1>
+			<p>blablbla insert para text.</p>
+		<h1>What is NMR?</h1>
+		<p styl;e="color:Red;" > blabla NMR.</p>
+	</body>
+</html>
+
