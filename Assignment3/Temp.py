@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 #https://github.com/adamaltenhof/FSU_Programming.git
+#Under folder /Assignment3
+
 #import math
 #import numpy as np
 
