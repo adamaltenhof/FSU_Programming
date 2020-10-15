@@ -33,6 +33,8 @@ for line in lines:
         M[j] = 14.0
     if A[j] == 'O':
         M[j] = 16.0
+    if A[j] == 'S':
+        M[j] = 32.0
     xm[j] = x[j]*M[j]
     ym[j] = y[j]*M[j]
     zm[j] = z[j]*M[j]
