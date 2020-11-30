@@ -1,6 +1,7 @@
 ##Adam Altenhof
 ##https://github.com/adamaltenhof/FSU_Programming.git
 ##Program to animate time-depedent nuclear spin polarization on a 3D Bloch sphere.
+##Requires the installation of the quitip library as well as any others listed at the top
 ##Note: need to install ffmpeg for imageio to run this
 ##I use anaconda/pip so that is done via: pip install imageio-ffmpeg
 from qutip import *
